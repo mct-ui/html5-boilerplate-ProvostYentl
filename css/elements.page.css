@@ -16,9 +16,13 @@ html {
  */
 
 ::-moz-selection {
+    background: #44c8f5;
+    columns: white;
 
 }
 
 ::selection {
+    background: #44c8f5;
+    columns: white;
 
 }
